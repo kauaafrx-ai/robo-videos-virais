@@ -1,0 +1,3 @@
+# Facebook publishing engine reused under its MIT license.
+# Pinned to a specific commit for reproducible installs.
+graphpost @ git+https://github.com/ghassenbrg/graphpost.git@157753f7d4dd4a90ebec6745b68e3b665586e61d
